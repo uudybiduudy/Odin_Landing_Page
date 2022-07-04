@@ -1,0 +1,40 @@
+* {
+    font-family: Roboto, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.top {
+    background-color: #1f2937;
+}
+
+p {
+    color: #e5e7eb;
+}
+
+.main {
+    font-size: 48px;
+    font-weight: bold;
+    color: #f9faf8;
+}
+
+.head {
+    display: flex;
+    justify-content: space-around;
+}
+
+.navigation ul {
+    list-style-type: none;
+    display: flex;
+    gap: 1.5em;
+
+}
+
+.navigation ul li a {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.intro {
+    display: flex;
+}
